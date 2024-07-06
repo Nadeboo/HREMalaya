@@ -1,15 +1,14 @@
 government = republic
-add_government_reform = free_city
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 25
 technology_group = western
 primary_culture = swabian
 religion = catholic
-capital = 4712 # Konstanz
-fixed_capital = 4712 # Cannot move capital away from this province & no power cost to move to it
-
-1440.1.1 = {
-	monarch = {
+capital = 4712# Konstanz
+fixed_capital = 4712# Cannot move capital away from this province & no power cost to move to it
+1440.1.1 = { 
+	monarch = { 
 		name = "Patriziat"
 		adm = 3
 		dip = 3
@@ -17,6 +16,6 @@ fixed_capital = 4712 # Cannot move capital away from this province & no power co
 		regent = yes
 	}
 }
-1525.1.1 = {
+1525.1.1 = { 
 	religion = reformed
 }
