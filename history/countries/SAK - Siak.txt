@@ -5,6 +5,7 @@ religion = sunni
 technology_group = chinese
 capital = 620	# Siak
 religious_school = shafii_school
+elector = yes
 
 1429.1.1 = {
 	monarch = {

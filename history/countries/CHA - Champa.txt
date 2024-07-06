@@ -4,6 +4,7 @@ primary_culture = cham
 religion = hinduism
 technology_group = chinese
 capital = 607	# Vijaya
+elector = yes
 
 
 1390.1.1 = {

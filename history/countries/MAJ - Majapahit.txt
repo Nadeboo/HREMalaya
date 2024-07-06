@@ -4,6 +4,7 @@ primary_culture = javanese
 technology_group = chinese
 religion = hinduism
 capital = 628	# Surabaya
+elector = yes
 
 
 # Majapahit
