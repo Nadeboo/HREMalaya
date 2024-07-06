@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = plutocratic_reform
+add_government_reform = free_city
 technology_group = chinese
 religion = sunni
 primary_culture = filipino
