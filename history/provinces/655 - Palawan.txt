@@ -1,10 +1,9 @@
 #655 - Palawan
-
 culture = filipino
 religion = sunni
 capital = "Palawan"
 trade_goods = sugar
-hre = no
+hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 2
@@ -14,12 +13,10 @@ owner = BEI
 controller = BEI
 add_core = BEI
 add_local_autonomy = 25
-
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
-1749.1.1 = {
-	owner = SPA
+1521.1.1 = { discovered_by = SPA }
+1749.1.1 = { 
 	controller = SPA
 	culture = castillian
-	religion = catholic
-} # Palawan is ceded to Spain
+	religion = Catholic
+}
 1774.1.1 = { add_core = SPA }

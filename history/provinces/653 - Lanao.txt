@@ -1,12 +1,11 @@
 #653 - Lanao
-
 culture = filipino
 religion = animism
 capital = "Marawi"
 trade_goods = spices
 is_city = yes
-hre = no
-base_tax = 3 
+hre = yes
+base_tax = 3
 base_production = 3
 base_manpower = 2
 owner = MGD
@@ -14,15 +13,12 @@ controller = MGD
 add_core = MGD
 add_core = LNO
 discovered_by = chinese
-
-1450.1.1 = { religion = sunni }
-1520.1.1 = {
-	owner = LNO
+1450.1.1 = { religion = Sunni }
+1520.1.1 = { 
 	controller = LNO
-} #Sultanates of Lanao
+}
 1521.1.1 = { discovered_by = SPA }
-1639.4.1 = {
-	owner = SPA
+1639.4.1 = { 
 	controller = SPA
 	add_core = SPA
-} # Conquest by Spain
+}

@@ -1,5 +1,4 @@
 #627 - Blambangan
-
 owner = BLM
 controller = BLM
 add_core = BLM
@@ -7,31 +6,21 @@ culture = javanese
 religion = hinduism
 capital = "Blambangan"
 trade_goods = cotton
-hre = no
+hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
 1509.1.1 = { discovered_by = POR }
-
-1527.1.1 = {
-	owner = BLM
+1527.1.1 = { 
 	controller = BLM
-	add_core = BLM
-	remove_core = MAJ
-} # Blambangan Kingdom was established
-1768.1.1 = {
-	owner = NED
+}
+1768.1.1 = { 
 	controller = NED
 	add_core = NED
-	remove_core = BLM
 	capital = "Banyuwangi"
-} # Dutch conquered Blambangan
+}
