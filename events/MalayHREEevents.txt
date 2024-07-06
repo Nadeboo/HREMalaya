@@ -5,7 +5,6 @@ country_event = {
 	title = "religious_leagues.4.t"
 	desc = "religious_leagues.4.d"
 	picture = RELIGIOUS_WARS_eventPicture
-    hidden = yes
 
 	is_triggered_only = yes
 	
@@ -14,15 +13,13 @@ country_event = {
 	}
 	
 	immediate = {
-		hidden_effect = {
 			set_hre_religion_treaty = yes
-		}
+			set_hre_religion = sunni 
 	}
 
 	option = {
 		name = "religious_leagues.4.a"
-		tooltip = { 
 			set_hre_religion_treaty = yes
-		}
+			set_hre_religion = sunni 
 	}
 }
