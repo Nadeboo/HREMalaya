@@ -4,6 +4,7 @@ primary_culture = bornean
 technology_group = chinese
 religion = hinduism
 capital = 638	# Kutai
+elector = yes
 
 1399.1.1 = {
 	monarch = {

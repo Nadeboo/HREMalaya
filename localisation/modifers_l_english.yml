@@ -1494,7 +1494,7 @@
  desc_gen_america_holding_mod:0 "With the establishment of our presence in the New World, there are thousands of willing participants in our colonial program."
  gen_indian_holding_mod:0 "Tea Clippers"
  desc_gen_indian_holding_mod:0 "The tall ships are a sight to behold, transporting tea and other luxury goods at an astounding pace, so as not to let them spoil. Our merchant fleet must be one of the finest in the world!"
- # Generic HRE mission rewards
+ # Generic HME mission rewards
  gen_hre_diplomacy_mod:0 "Imperial Graces"
  desc_gen_hre_diplomacy_mod:0 "While we may not yet be seated on the holy throne, it is clear to all that we possess the regnal air of an Emperor."
  gen_hre_emperor_mod:0 "Imperator Romanorum"

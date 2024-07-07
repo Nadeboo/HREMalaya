@@ -1494,7 +1494,7 @@
  desc_gen_america_holding_mod:0 "Al establecer nuestra presencia en el Nuevo Mundo, hay miles de voluntarios para participar en nuestro programa colonial."
  gen_indian_holding_mod:0 "Clíperes de té"
  desc_gen_indian_holding_mod:0 "Los barcos largos son un espectáculo, transportando té y otros bienes de lujo a una velocidad asombrosa para que no se echen a perder. ¡Nuestra flota mercante debe de ser una de las mejores del mundo!"
- # Generic HRE mission rewards
+ # Generic HME mission rewards
  gen_hre_diplomacy_mod:0 "Gracia imperial"
  desc_gen_hre_diplomacy_mod:0 "Aunque aún no estamos sentados en el trono imperial, es evidente que poseemos el aire regio de un emperador."
  gen_hre_emperor_mod:0 "Imperator Romanorum"

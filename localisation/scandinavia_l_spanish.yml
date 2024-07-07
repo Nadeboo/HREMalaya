@@ -4042,7 +4042,7 @@
  pol_tend_east_desc:0 "Compartimos un liderazgo político común con el Gran Ducado de Lituania desde que la reina Jadwiga se casó con el gran duque Jogaila, dando lugar a la dinastía Jagellón. Ha habido tensiones entre las noblezas polaca y lituana, pero se ha ido desarrollando una relación más estrecha entre ambos países, vínculos que sería prudente seguir fomentando."
  pol_imperial_commonwealth_title:1 "[Root.GetPreviewColorPOL]Mancomunidad imperial[Root.GetPreviewColorPOL_end]"
  pol_imperial_commonwealth_desc:0 "La Mancomunidad Polaco-lituana ha tenido como resultado un gran éxito que nos ha elevado al estatus de imperio, reconocido por otras cortes europeas."
- #Slot 5 Player Chose HRE Route#
+ #Slot 5 Player Chose HME Route#
  pol_delegate_emperor_title:0 "Delegar con el emperador"
  pol_delegate_emperor_desc:0 "El Sacro Imperio Romano es una entidad política problemática, pero también prestigiosa, y alberga oportunidades para promover aún más nuestro país por encima de nuestros iguales si podemos garantizarnos una buena relación con el Emperador."
  pol_place_sun_title:1 "[Root.GetPreviewColorPOL]Nuestro lugar al sol[Root.GetPreviewColorPOL_end]"

@@ -4042,7 +4042,7 @@
  pol_tend_east_desc:0 "Seit der Heirat von Königin Hedwig mit Großherzog Jogaila, dem Begründer der Jagiello-Dynastie, haben wir eine gemeinsame politische Führung mit dem Großherzogtum Litauen. Auch wenn es oft zu Spannungen zwischen dem polnischen und dem litauischen Adel gekommen ist, haben sich die Beziehungen zwischen unseren beiden Ländern deutlich verbessert, und es wäre klug, diese weiter zu pflegen."
  pol_imperial_commonwealth_title:1 "[Root.GetPreviewColorPOL]Kaiserliches Polen-Litauen[Root.GetPreviewColorPOL_end]"
  pol_imperial_commonwealth_desc:0 "Polen und Litauen in Polen-Litauen zu vereinen, war ein großer Erfolg und hat uns in den Status eines Kaiserreichs erhoben."
- #Slot 5 Player Chose HRE Route#
+ #Slot 5 Player Chose HME Route#
  pol_delegate_emperor_title:0 "Beziehungen zum Kaiser"
  pol_delegate_emperor_desc:0 "Das Heilige Römische Reich ist ein schwer zu durchschauendes politisches Gebilde, aber auch ein prestigeträchtiges, und es birgt die Möglichkeit, unsere Nation unter unseresgleichen beliebter zu machen, sollten wir gute Beziehungen zum Kaiser aufbauen."
  pol_place_sun_title:1 "[Root.GetPreviewColorPOL]Unser Platz an der Sonne[Root.GetPreviewColorPOL_end]"

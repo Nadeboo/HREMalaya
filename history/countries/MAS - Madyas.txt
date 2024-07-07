@@ -5,6 +5,7 @@ primary_culture = filipino
 capital = 2700 #Panay
 religion = hinduism
 government_rank = 1
+elector = yes
 
 1365.1.1 = {
 	monarch = {

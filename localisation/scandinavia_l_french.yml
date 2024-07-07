@@ -4042,7 +4042,7 @@
  pol_tend_east_desc:0 "[Root.GetLeLaNPCap] [Root.GetName] et [LIT.GetLeLaNP] [LIT.GetName] ont disposé d'une gouvernance commune depuis que la reine Hedwige Ière a épousé le grand-duc Jogaila, donnant ainsi naissance à la dynastie Jagellon. Des tensions ont certes existé entre les nobles, mais les deux pays se sont depuis rapprochés. Il serait donc avisé de renforcer encore ces relations."
  pol_imperial_commonwealth_title:1 "[Root.GetPreviewColorPOL]République impériale[Root.GetPreviewColorPOL_end]"
  pol_imperial_commonwealth_desc:0 "La République des Deux Nations a été un véritable succès, faisant de nous un empire reconnu par toutes les cours d'Europe."
- #Slot 5 Player Chose HRE Route#
+ #Slot 5 Player Chose HME Route#
  pol_delegate_emperor_title:0 "Relations avec l'[Emperor.GetEmpereurImperatriceDirCap]"
  pol_delegate_emperor_desc:0 "Le Saint-Empire romain germanique est un ensemble certes agité, mais aussi d'un très grand prestige, et il est en mesure d'offrir des opportunités pour élever [Root.GetLeLaNP] [Root.GetName] au-dessus de [Root.GetSesLeursNP] pairs. Il suffit pour cela d'entretenir de bonnes relations avec l'[Emperor.GetEmpereurImperatriceDirCap]."
  pol_place_sun_title:1 "[Root.GetPreviewColorPOL]Une place au soleil[Root.GetPreviewColorPOL_end]"

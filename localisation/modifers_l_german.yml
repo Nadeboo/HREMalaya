@@ -1494,7 +1494,7 @@
  desc_gen_america_holding_mod:0 "Mit der Etablierung einer Präsenz in der Neuen Welt gibt es Tausende von willigen Teilnehmern für unser Kolonialprogramm."
  gen_indian_holding_mod:0 "Tee-Klipper"
  desc_gen_indian_holding_mod:0 "Die großen Schiffe sind ein wunderbarer Anblick. Sie transportieren Tee und andere Luxusgüter in einem erstaunlichen Tempo, damit sie nicht verderben. Unsere Handelsflotte muss eine der besten der Welt sein!"
- # Generic HRE mission rewards
+ # Generic HME mission rewards
  gen_hre_diplomacy_mod:0 "Kaiserliche Anmut"
  desc_gen_hre_diplomacy_mod:0 "Obwohl wir noch nicht auf dem heiligen Thron sitzen, ist allen klar, dass wir bereits die Ausstrahlung eines Kaisers haben."
  gen_hre_emperor_mod:0 "Römisch-deutscher Kaiser"

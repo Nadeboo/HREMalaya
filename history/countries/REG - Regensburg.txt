@@ -33,4 +33,4 @@ fixed_capital = 2957# Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 } # Reichsdeputationshauptschluss is ratified by Emperor Francis II, Regensburg gains the electoral dignity as an Archbishopric
-1806.7.12 = { elector = no } # the HRE is dissolved
+1806.7.12 = { elector = no } # the HME is dissolved

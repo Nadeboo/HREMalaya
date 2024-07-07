@@ -5632,7 +5632,7 @@ pal_great_king = {
 	land_morale = 0.05
 }
 
-#Bishop Electors and other HRE theocracies
+#Bishop Electors and other HME theocracies
 
 theocracy_lords_army_mod = {
 	land_morale = 0.05

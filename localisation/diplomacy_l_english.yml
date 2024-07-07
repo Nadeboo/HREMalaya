@@ -860,7 +860,7 @@
  INTEGRATE_OWNS_MORE_PROVINCES:0 "$BIG$ owns more provinces than $SMALL$."
  PEACEOFFER_DEMANDED_PROVINCE_CANNOT_TAKE_CAPITAL:0 "This is their capital and since we have demanded other provinces we cannot demand this as well."
  DIPLO_CHANGE_VASSALS:0 "Opinion of other subject changed by: "
- DIPLO_CHANGE_EMPIRE:0 "Opinion change of other HRE members: "
+ DIPLO_CHANGE_EMPIRE:0 "Opinion change of other HME members: "
  SUBJECT_NEW_WAR:0 "$SUBJECT$ will drag $OVERLORD$ into war with $LIST$."
  SUBJECT_NOT_NEW_VAR:0 "$OVERLORD$ will not join the war between $SUBJECT$ and $SUBJECT_ENEMY$: $REASON$"
  PART_OF_HRE:0 "$COUNTRY|Y$ is part of the Holy Malayan Empire."

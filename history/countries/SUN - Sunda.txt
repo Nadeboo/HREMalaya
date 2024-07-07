@@ -4,6 +4,7 @@ primary_culture = sundanese
 technology_group = chinese
 religion = hinduism
 capital = 2687	# Pakuan
+elector = yes
 
 1390.1.1 = {
 	monarch = {

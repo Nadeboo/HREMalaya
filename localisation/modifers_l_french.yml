@@ -1494,7 +1494,7 @@
  desc_gen_america_holding_mod:0 "Avec l'établissement d'une présence [Root.GetRootAdjFS] au Nouveau Monde, des milliers de personnes sont prêtes à partir pour les colonies."
  gen_indian_holding_mod:0 "Clippers"
  desc_gen_indian_holding_mod:0 "Les grands vaisseaux [Root.GetRootAdjMP] qui rapportent le thé et d'autres produits de luxe à toute vitesse pour qu'ils ne se perdent pas pendant le trajet en mer sont magnifiques à voir. Assurément, notre flotte marchande est l'une des plus belles au monde !"
- # Generic HRE mission rewards
+ # Generic HME mission rewards
  gen_hre_diplomacy_mod:0 "Grâce impériale"
  desc_gen_hre_diplomacy_mod:0 "[Root.GetSilSielleDirCap] n'est pas encore assis[Root.GetXEDir] sur le trône du Saint-Empire, il est évident que [Root.Monarch.GetName] a tout d'un[Root.GetXEDir] [Root.GetPseudoEmpereurImperatriceDir]."
  gen_hre_emperor_mod:0 "Imperator romanorum"

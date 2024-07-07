@@ -10,7 +10,6 @@ holy_malayan_emperor = {
 	trigger = {
 		is_emperor = yes 
 	}
-	cb_on_religious_enemies = yes
 	enforce_religion_cost = -1
 	extra_manpower_at_religious_war = yes 
 	missionaries = 3 
@@ -18,7 +17,9 @@ holy_malayan_emperor = {
 	global_missionary_strength = 0.5
 	relation_with_heretics = -100
 	relation_with_heathens = -100 
-	relation_with_same_religion = 100
+	emperor = {
+		set_country_flag = enabled_great_holy_war_cb
+	}
 }
 east_indian_trade_route = {
 	potential = {
@@ -388,7 +389,7 @@ rapid_collapse_of_society = {
 ######################################
 submission_to_emperor = {
 	potential = {
-		# AI will avoid joining HRE when this modifier is potential:
+		# AI will avoid joining HME when this modifier is potential:
 
 		has_global_flag = italians_leave_hre
 		NOT = { has_country_flag = reined_in_for_shadow_kingdom }
@@ -706,7 +707,7 @@ waging_war_for_china = {
 }
 
 ##################################################
-# HRE modifiers
+# HME modifiers
 ##################################################
 hre_dominant_catholic = {
 	potential = {

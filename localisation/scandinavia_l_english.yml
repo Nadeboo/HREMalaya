@@ -331,7 +331,7 @@
  swe_devastate_the_christians_tt:0 "Win §Y25§! wars against §YChristian§! countries while having the §YNorse§! faith (§Y[Root.SwedenCountWarsWon]§!/§Y25§!)"
  swe_dabble_into_european_diplomacy_title:0 "European Politics"
  swe_dabble_into_european_diplomacy_desc:0 "Foreign powers have tried to manipulate the fate of Sweden for a while now. The Kalmar Union is one of such examples which is still stuck in our collective mind.\nNow that we are no longer somebody else's minion our time has come to be the ones who influence the European stage of politics and power."
- swe_dabble_into_european_diplomacy_tt:1 " allies which have their capital in §YEurope§!, have at least §Y75§! opinion of §Y[Root.GetName]§! and are either the §Y[PAP.GetName]§!, the §YEmperor§! of the HRE or have at least §Y250§! total and non-tributary subject development."
+ swe_dabble_into_european_diplomacy_tt:1 " allies which have their capital in §YEurope§!, have at least §Y75§! opinion of §Y[Root.GetName]§! and are either the §Y[PAP.GetName]§!, the §YEmperor§! of the HME or have at least §Y250§! total and non-tributary subject development."
  swe_a_swedish_great_power_title:0 "Great Power of the North"
  swe_a_swedish_great_power_desc:0 "The Kalmar Union was supposed to be the great European Power of the North. In reality, however, it was hindered by the sheer audacity and obstinacy of the Danish kings, who used the unions' power for petty wars with the Hansa - such as it was the case during the reign of Eric of Pomerania in 1426.\nWe should achieve what the Kalmar Union could not, and become the Northern Great Power which influences the fate of Europe in a meaningful way!"
  swe_finnish_swedish_relations_title:0 "Finno-Swedish Relations"
@@ -2818,8 +2818,8 @@
  swe_sca_secure_electors_tt:0 "The reward depends on how the mission gets completed.\n\nIf we complete this mission by getting the support of the Electors then we get '§YSuccessful bid for the Imperial Crown§! for §Y15 years§!, giving the following effects:\nYearly Prestige: §G+1.00§!\nDiplomatic Reputation: §G+1.00§!\n\nOtherwise we gain permanent claims on the areas of §YNeumark§!, §YMittelmark§!, §YSaxony-Anhalt§!, §YLower Saxony§!, §YWeser§!, §YFrisia§!, §YHolland§! and §YNorth Brabant§!."
  swe_sca_low_countries_title:0 "Secure the Low Countries"
  swe_sca_low_countries_desc:0 "The Low Countries are home to the Dutch, a people well known for their maritime and mercantilistic achievements. Their trade in the English Channel occasionally caused a cut to our own profit in Lübeck, but usually we do not interact much with each other.\nHowever, now that we have started to expand our influence into Germany it is clear that the Dutch are within our scope too. Depending on our position with the Holy Malayan Empire we should either ensure that they are part of said Empire, or part of our own realm."
- swe_sca_low_countries_tt:0 " provinces in the areas §YNorth Brabant§!, §YFrisia§! and §YHolland§!:\n  One of the following is true:\n    Owner is part of the HRE and has §Y100§! opinion of §Y[Root.GetName]§!\n    Owner is §Y[Root.GetName]§! or its subject"
- swe_sca_low_countries_ct:2 "The reward depends on how the mission gets completed.\n\nIf we complete this mission by ensuring that the areas of §YNorth Brabant§!, §YFrisia§! and §YHolland§! are part of the HRE while we are the Emperor then we get §G25§! Imperial Authority and '§YImperial Low Countries§!' for §Y25 years§!, giving the following effects:\nImperial Authority Growth Modifier: §G+50.0%§!\nImprove Relations: §G+20.0%§!\n\nOtherwise every province in the §YLow Countries§! which is owned by §Y[Root.GetName]§! or its subjects gets '§YControl over the Low Countries§!' for §Y15 years§!, giving the following effects:\nLocal Goods Produced Modifier: §G+25.0%§!\nYears of Separatism: §G-10§!"
+ swe_sca_low_countries_tt:0 " provinces in the areas §YNorth Brabant§!, §YFrisia§! and §YHolland§!:\n  One of the following is true:\n    Owner is part of the HME and has §Y100§! opinion of §Y[Root.GetName]§!\n    Owner is §Y[Root.GetName]§! or its subject"
+ swe_sca_low_countries_ct:2 "The reward depends on how the mission gets completed.\n\nIf we complete this mission by ensuring that the areas of §YNorth Brabant§!, §YFrisia§! and §YHolland§! are part of the HME while we are the Emperor then we get §G25§! Imperial Authority and '§YImperial Low Countries§!' for §Y25 years§!, giving the following effects:\nImperial Authority Growth Modifier: §G+50.0%§!\nImprove Relations: §G+20.0%§!\n\nOtherwise every province in the §YLow Countries§! which is owned by §Y[Root.GetName]§! or its subjects gets '§YControl over the Low Countries§!' for §Y15 years§!, giving the following effects:\nLocal Goods Produced Modifier: §G+25.0%§!\nYears of Separatism: §G-10§!"
  swe_sca_refine_the_carolaen_training_title:0 "Refine the Caroleans"
  swe_sca_refine_the_carolaen_training_desc:0 "The Caroleans are the backbone of our army. Their discipline and courage has brought us many victories on the battlefield.\nBut they have one flaw: they require recruits whose hearts are as unbreakable as our steel itself - and such soldiers are hard to find. We should reform the recruitment process and refine the training so we can field more Caroleans reliably."
  swe_sca_north_germany_title:0 "Emperor of the Germans"
@@ -3391,7 +3391,7 @@
  STABILITY_AI_MODIFIER:0 "Stability"
  CANNOT_AFFORD_IT_AI_MODIFIER:0 "Cannot afford it"
  NUM_OF_LOANS_AI_MODIFIER:0 "Num of loans"
- CANNOT_DECLARE_WARS_TEUTONS_HRE:0 "Cannot declare wars on other HRE members as an AI"
+ CANNOT_DECLARE_WARS_TEUTONS_HRE:0 "Cannot declare wars on other HME members as an AI"
  ###NEW GOVERNMENT REFORMS REPUBLICS###
  venetian_merchant_republic:0 "Venetian Government"
  venetian_merchant_republic_desc:0 "The Most Serene Republic of Venice employs a complex and convoluted system for electing officials to public office. A series of secret ballots appoints 41 electors, who then each cast a vote into an urn. A single vote is extracted from the urn, and the man whose name is written on it becomes the new Doge. The system attempts to combat electoral corruption and ensure a fair vote."
@@ -4042,7 +4042,7 @@
  pol_tend_east_desc:0 "We have shared common political leadership with the Grand Duchy of Lithuania since Queen Jadwiga married Grand Duke Jogaila, breeding the Jagiello dynasty. There have been tensions between the Polish and Lithuanians nobility, but a closer relationship has also been developing between the two countries, ties that we would be wise to continue fostering."
  pol_imperial_commonwealth_title:1 "[Root.GetPreviewColorPOL]Imperial Commonwealth[Root.GetPreviewColorPOL_end]"
  pol_imperial_commonwealth_desc:0 "The Polish-Lithuanian Commonwealth has resulted in a great success, elevating us to the status of Empire, as recognized by other European courts."
- #Slot 5 Player Chose HRE Route#
+ #Slot 5 Player Chose HME Route#
  pol_delegate_emperor_title:0 "Delegate with the Emperor"
  pol_delegate_emperor_desc:0 "The Holy Malayan Empire is a troublesome political entity, but also a prestigious one, and it harbors opportunities to further promote our country above our peers if we can secure a good relationship with the Emperor."
  pol_place_sun_title:1 "[Root.GetPreviewColorPOL]Our Place in the Sun[Root.GetPreviewColorPOL_end]"
