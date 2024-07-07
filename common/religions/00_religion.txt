@@ -1393,7 +1393,7 @@ muslim = {
 		heretic = { BEKTASHI AHMADI ZIKRI YAZIDI }
 		
 		uses_piety = yes				# Uses piety mechanics
-        hre_heretic_religion = yes 
+		hre_heretic_religion = yes 
 	}
 
 	shiite = {
@@ -1483,6 +1483,7 @@ eastern = {
 		harmonized_modifier = harmonized_buddhism
 		
 		uses_karma = yes
+		hre_heretic_religion = yes 
 	}
 	
 	vajrayana = {
@@ -1545,6 +1546,7 @@ eastern = {
 		heretic = { ZEN }
 		
 		uses_karma = yes
+		hre_heretic_religion = yes 
 	}
 
 	confucianism = {
@@ -1621,7 +1623,7 @@ dharmic = {
 		}
 		
 		heretic = { BHAKTI }
-        hre_religion = yes 
+		hre_religion = yes 
 	}
 
 	sikhism = {
@@ -2262,6 +2264,7 @@ pagan = {
 		}
 		
 		heretic = { SNAKE_CLAN }
+		hre_heretic_religion = yes 
         
 	}
 	shamanism = { #Fetishism, tag kept to avoid breaking saves.

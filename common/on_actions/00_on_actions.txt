@@ -2,6 +2,8 @@
 
 # country
 on_startup = {
+	set_hre_religion_treaty = yes
+	set_global_flag = evangelical_union_happened
 	emperor = {
 		save_global_event_target_as = Emperor
 	}
